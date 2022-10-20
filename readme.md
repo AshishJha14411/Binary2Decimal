@@ -4,7 +4,7 @@ This is a simple project to convert a Binary Number into Decimal, the project us
 
 1 hours approximately
 
-[Live Demo](https://according-akj.netlify.app/)
+[Live Demo](https://b2d-akj.netlify.app/)
 
 ### SnapShot of the program
 
